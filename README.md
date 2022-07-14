@@ -18,7 +18,7 @@ download mp4: [botsharp-with-articulate.mp4](botsharp-with-articulate.mp4)
 * Make sure you have [npm](https://nodejs.org/en/) (8.12.0 LTS)installed before you try the UI.
 
 ```
-git clone https://github.com/Oceania2018/articulate-ui
+git clone https://github.com/yswenli/articulate-ui
 npm install
 npm start
 ```
